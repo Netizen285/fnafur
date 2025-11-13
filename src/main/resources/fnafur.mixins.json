@@ -21,7 +21,6 @@
     "PostEffectProcessorMixin",
     "RenderLayerMixin",
     "SplashOverlayMixin",
-    "TitleScreenMixin",
     "WorldRendererMixin"
   ],
   "injectors": {
